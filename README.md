@@ -1,2 +1,3 @@
 # git-training
-Send your pull requests :)
+Send your pull requests :) <br />
+Please give me a good grade! ;) <br />
